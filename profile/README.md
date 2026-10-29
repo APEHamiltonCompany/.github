@@ -1,4 +1,3 @@
-# .github
 # Development Environment Setup Guide
 
 General-purpose setup for new users joining an `APEHamiltonCompany` repository. Follow these steps once per machine. No prior VS Code, Python, or GitHub setup is assumed.
